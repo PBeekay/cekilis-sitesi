@@ -1,0 +1,1 @@
+from cekilis_projesi.wsgi import application
